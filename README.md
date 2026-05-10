@@ -1,5 +1,3 @@
-readme_content = """# HR Attrition Case Study
-
 ## Project Overview
 
 This project analyzes employee attrition using Power BI, Python, and SQL. The goal is to identify key employee segments associated with attrition and provide data-driven recommendations to support HR retention decisions.
