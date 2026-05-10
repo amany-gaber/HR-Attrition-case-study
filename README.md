@@ -24,6 +24,10 @@ Which employee segments have the highest attrition risk, and what actions can HR
 - Demonstrate SQL joins between the employee fact table and dimension tables.
 - Use Python to classify employees into experience levels.
 
+## Dashboard
+<img width="1045" height="740" alt="image" src="https://github.com/user-attachments/assets/64648ace-bde5-45eb-bb25-015a86406877" />
+<img width="1316" height="742" alt="image" src="https://github.com/user-attachments/assets/12e2c581-3d61-4c2a-87c3-7e34b1ab5ab6" />
+
 ## Dataset
 
 The dataset contains employee-level HR information, including:
